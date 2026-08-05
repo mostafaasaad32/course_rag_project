@@ -1,12 +1,16 @@
 langchain
 langchain-community
 langchain-core
-langchain-openai
+langchain-huggingface
+langchain-groq
 chromadb
 unstructured
 pdf2image
 pdfminer.six
 docx2txt
+pypdf
 pandas
 streamlit
 tiktoken
+python-dotenv
+sentence-transformers
