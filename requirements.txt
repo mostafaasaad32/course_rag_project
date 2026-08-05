@@ -14,3 +14,4 @@ streamlit
 tiktoken
 python-dotenv
 sentence-transformers
+torchvision
