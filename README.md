@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) web application built to help users interactively query course materials. The app leverages a local vector database for fast retrieval and an LLM to answer questions specifically based on the provided documents.
 
-**[🚀 Try the Live Demo here!](https://your-app-url.streamlit.app)**
+**[🚀 Try the Live Demo here!](https://courseragproject.streamlit.app/)**
 
 ## Features
 
