@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+chromadb
+unstructured
+pdf2image
+pdfminer.six
+docx2txt
+pandas
+streamlit
+tiktoken

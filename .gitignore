@@ -1,0 +1,41 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+
+# ----------------------------------------------------------------------
+# NOTE: If you are pushing to GitHub for Streamlit Cloud deployment, 
+# you MUST commit either your data/raw_courses/ or your data/vector_db/ 
+# (or both) so the app has data to work with. 
+# 
+# If you ever want to hide your data, uncomment the lines below:
+# ----------------------------------------------------------------------
+# data/raw_courses/
+data/vector_db/
